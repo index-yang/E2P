@@ -3,8 +3,7 @@ Code For "Seeing through Scattering from Degradation Embedding to Peeling"
 
 
 ## SAID Dataset
-Will be made public as soon as possible!
-
+We will be made this datset public as soon as possible!
 
 ## Quick Run
 ### Step1: Config Environment.

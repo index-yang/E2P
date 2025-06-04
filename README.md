@@ -4,9 +4,10 @@
 <a href='https://index-yang.github.io/'><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;
 <a href='https://index-yang.github.io/'><img src='https://img.shields.io/badge/Space-Huggingface-ffd700.svg'></a> &nbsp;&nbsp;
 
-Official Code For "Seeing through Scattering from Degradation Embedding to Peeling"
+This is the official code for "Seeing through Scattering from Degradation Embedding to Peeling".
 
-If this project is helpful to your images or projects, please help star this repo. Thank you!
+
+You can use our Huggingface Space to quickly test our method. If this project is helpful to you, please help star this repo and cite our paper. Thank you! 🙏
 
 ### :sparkles: Highlights:
 - SAID
@@ -31,16 +32,16 @@ We will be made this datset public as soon as possible!
 ## :runner: Quickly Test
 <!-- ### Step1: Config Environment.
     Config. -->
-#### Step1: Download code and weights.
+#### Step1: Download weights.
     ckpts path.
-#### Step2: Place your image.
+#### Step2: Place your degraded images.
     Put.
 #### Step3: Run and get clear image！
     Run.
 ## :computer: Train
 <!-- ### Train the Degradation Embedding
 ### Train the Degradation Peeling Network -->
-Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned
+Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned.
 
 ## :book: BibTeX
     This is BibTeX

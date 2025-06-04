@@ -1,26 +1,49 @@
-# E2P
-Code For "Seeing through Scattering from Degradation Embedding to Peeling"
+# <p align=center> Seeing through Scattering from Degradation Embedding to Peeling </p>
 
+<a href='https://index-yang.github.io/'><img src='https://img.shields.io/badge/Paper-arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
+<a href='https://index-yang.github.io/'><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;
+<a href='https://index-yang.github.io/'><img src='https://img.shields.io/badge/Space-Huggingface-ffd700.svg'></a> &nbsp;&nbsp;
 
-## SAID Dataset
+Official Code For "Seeing through Scattering from Degradation Embedding to Peeling"
+
+If this project is helpful to your images or projects, please help star this repo. Thank you!
+
+### :sparkles: Highlights:
+- SAID
+- E2P
+- SOTA
+### :page_facing_up: Todo-list:
+- [ ] Release part of SAID dataset.
+- [ ] Release test code and weight.
+- [ ] Release train code.
+- [ ] Release full SAID dataset.
+
+## :rocket: SAID Dataset
 We will be made this datset public as soon as possible!
 
-## Quick Run
-### Step1: Config Environment.
-    Config.
-### Step2: Download code and ckpts.
+
+## :wrench: Dependencies and Installation
+#### Step1: Clone repo
+    Clone repo
+#### 2.Install packages
+    Install packages
+
+## :runner: Quickly Test
+<!-- ### Step1: Config Environment.
+    Config. -->
+#### Step1: Download code and weights.
     ckpts path.
-### Step3: Put your image.
+#### Step2: Place your image.
     Put.
-### Step4: Run！
+#### Step3: Run and get clear image！
     Run.
-## Train
+## :computer: Train
 <!-- ### Train the Degradation Embedding
 ### Train the Degradation Peeling Network -->
 Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned
 
-## BibTeX
+## :book: BibTeX
     This is BibTeX
 
-## Contact
+## :email: Contact
 Should you have any question, please contact **Donghui Yang**! His email is yangdonghui@mail.dlut.edu.cn

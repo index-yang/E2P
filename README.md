@@ -1,7 +1,7 @@
 # <p align=center> Seeing through Scattering from Degradation Embedding to Peeling </p>
 
 <a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Paper-arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
-<a href='https://index-yang.github.io/E2P><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;
+<a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;
 <a href='https://huggingface.co/spaces/IndexYang/E2P-space'><img src='https://img.shields.io/badge/Space-Huggingface-ffd700.svg'></a> &nbsp;&nbsp;
 
 This is the official code for "Seeing through Scattering from Degradation Embedding to Peeling".

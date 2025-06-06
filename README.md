@@ -1,13 +1,16 @@
 # <p align=center> Seeing through Scattering from Degradation Embedding to Peeling </p>
 
-<a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Paper-arxiv-b31b1b.svg'></a> &nbsp;&nbsp;
-<a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;
-<a href='https://huggingface.co/spaces/IndexYang/E2P-space'><img src='https://img.shields.io/badge/Space-Huggingface-ffd700.svg'></a> &nbsp;&nbsp;
+<p align=center>
+<a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Paper-arxiv-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;
+<a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Project page-E2P-1bb41b.svg'></a> &nbsp;&nbsp;&nbsp;
+<a href='https://huggingface.co/spaces/IndexYang/E2P-space'><img src='https://img.shields.io/badge/Space-Huggingface-ffd700.svg'></a>
+</p>
+
 
 This is the official code for "Seeing through Scattering from Degradation Embedding to Peeling".
 
-
 You can use our Huggingface Space to quickly test our method. If this project is helpful to you, please help star this repo and cite our paper. Thank you! 🙏
+
 
 ### :sparkles: Highlights:
 - SAID

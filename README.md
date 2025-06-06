@@ -12,24 +12,34 @@ This is the official code for "Seeing through Scattering from Degradation Embedd
 You can use our Huggingface Space to quickly test our method. If this project is helpful to you, please help star this repo and cite our paper. Thank you! 🙏
 
 
-### :sparkles: Highlights:
-- SAID
+
+### :mega: Updates
+- **2025.06.06**: Updates1.
+- **2025.06.06**: Updates2.
+<!-- ### :sparkles: Highlights: 
+- SAID 
 - E2P
-- SOTA
-### :page_facing_up: Todo-list:
+- SOTA -->
+### :page_facing_up: Todo-list
 - [ ] Release part of SAID dataset.
-- [ ] Release test code and weight.
+- [ ] Release test code and weights.
 - [ ] Release train code.
 - [ ] Release full SAID dataset.
 
-## :rocket: SAID Dataset
-We will be made this datset public as soon as possible!
+## :mag: Method
+This is Method.
+
+## :sparkles: Results
+This is Results.
+
+## :rocket: SAID Dataset   
+We will be made this dataset public as soon as possible!
 
 
 ## :wrench: Dependencies and Installation
 #### Step1: Clone repo
     Clone repo
-#### 2.Install packages
+#### Step2: Install packages
     Install packages
 
 ## :runner: Quickly Test
@@ -41,6 +51,8 @@ We will be made this datset public as soon as possible!
     Put.
 #### Step3: Run and get clear image！
     Run.
+
+
 ## :computer: Train
 <!-- ### Train the Degradation Embedding
 ### Train the Degradation Peeling Network -->

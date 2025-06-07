@@ -37,11 +37,35 @@ We will be made this dataset public as soon as possible!
 
 
 ## :wrench: Dependencies and Installation
-#### Step1: Clone repo
-    Clone repo
-#### Step2: Install packages
-    Install packages
+- CUDA >= 11.0.
+- Both Windows and Linux can run this code.
+- Other required packages in requirements.txt
+#### Step1. Create conda environment
+```
+# Clone this repo.
+git clone https://github.com/index-yang/E2P
+cd E2P
 
+# Create conda env.
+conda create -n E2P python=3.9
+conda activate E2P
+```
+#### Step2. Install dependencies
+```
+# Install torch.
+pip install torch==1.13.0+cu117 torchvision==0.14.0+cu117 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
+
+# Install clip and other dependencies.
+pip install ftfy regex tqdm
+pip install git+https://github.com/openai/CLIP.git
+pip install scikit-image pandas einops thop
+
+# If your NumPy version is 2.x, you need to uninstall it and install version 1.x.
+pip uninstall numpy
+pip install numpy==1.23.5
+```
+
+    
 ## :runner: Quickly Test
 <!-- ### Step1: Config Environment.
     Config. -->

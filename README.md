@@ -21,7 +21,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 - E2P
 - SOTA -->
 ### :page_facing_up: Todo-list
-- [ ] Release part of SAID dataset.
+- [ ] Release the test set of SAID.
 - [ ] Release test code and weights.
 - [ ] Release train code.
 - [ ] Release full SAID dataset.
@@ -37,8 +37,8 @@ We will be made this dataset public as soon as possible!
 
 
 ## :wrench: Dependencies and Installation
-- CUDA >= 11.0.
-- Both Windows and Linux can run this code.
+- CUDA = 11.7 (Only tested on this version)
+- Both Windows and Linux can run this code
 - Other required packages in requirements.txt
 #### Step1. Create conda environment
 ```
@@ -52,15 +52,15 @@ conda activate E2P
 ```
 #### Step2. Install dependencies
 ```
-# Install torch.
+# Install torch
 pip install torch==1.13.0+cu117 torchvision==0.14.0+cu117 torchaudio==0.13.0 --extra-index-url https://download.pytorch.org/whl/cu117
 
-# Install clip and other dependencies.
+# Install clip and other dependencies
 pip install ftfy regex tqdm
 pip install git+https://github.com/openai/CLIP.git
 pip install scikit-image pandas einops thop
 
-# If your NumPy version is 2.x, you need to uninstall it and install version 1.x.
+# If your NumPy version is 2.x, you need to uninstall it and install version 1.x
 pip uninstall numpy
 pip install numpy==1.23.5
 ```
@@ -69,11 +69,11 @@ pip install numpy==1.23.5
 ## :runner: Quickly Test
 <!-- ### Step1: Config Environment.
     Config. -->
-#### Step1: Download weights.
+#### Step1. Download weights.
     ckpts path.
-#### Step2: Place your degraded images.
+#### Step2. Place your degraded images.
     Put.
-#### Step3: Run and get clear image！
+#### Step3. Run and get clear image！
     Run.
 
 

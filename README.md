@@ -31,7 +31,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 <!-- We will be made this dataset public as soon as possible! -->
 <img src='./figures/dataset.png'>
 
-<table align="center">
+<!-- <table align="center">
 <thead>
 <tr>
 <th>Dataset</th>
@@ -51,7 +51,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
 </tr>
 </tbody>
-</table>
+</table> -->
 
 | Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
 | ---------------------- | ----------- | ---------------------------------------------- |

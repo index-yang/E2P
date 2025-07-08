@@ -38,7 +38,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 <th>Download link</th>
 </tr>
 </thead>
-<tbody>
+<tbody align="center">
 <tr>
 <td>SAID test set</td>
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
@@ -49,6 +49,8 @@ You can use our Huggingface Space to quickly test our method. If this project is
 </tr>
 </tbody>
 </table>
+
+
 ## :sparkles: Results
 <!-- This is Results. -->
 <img src='./figures/result.png'>

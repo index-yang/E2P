@@ -26,15 +26,14 @@ You can use our Huggingface Space to quickly test our method. If this project is
 - [ ] Release train code.
 - [ ] Release full SAID dataset.
 
-## :mag: Method
-This is Method.
+## :rocket: SAID Dataset   
+<!-- We will be made this dataset public as soon as possible! -->
+<img src='./figures/dataset.png'>
 
 ## :sparkles: Results
-This is Results.
-
-## :rocket: SAID Dataset   
-We will be made this dataset public as soon as possible!
-
+<!-- This is Results. -->
+<img src='./figures/result1.png'>
+<img src='./figures/result2.png'>
 
 ## :wrench: Dependencies and Installation
 - CUDA = 11.7 (Only tested on this version)

@@ -53,6 +53,11 @@ You can use our Huggingface Space to quickly test our method. If this project is
 </tbody>
 </table>
 
+| Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
+| ---------------------- | ----------- | ---------------------------------------------- |
+| SAID test set&#xA;     | 3,200&#xA;  | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
+| Full SAID dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
+
 
 ## :sparkles: Results
 <!-- This is Results. -->

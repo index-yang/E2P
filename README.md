@@ -31,10 +31,28 @@ You can use our Huggingface Space to quickly test our method. If this project is
 <!-- We will be made this dataset public as soon as possible! -->
 <img src='./figures/dataset.png'>
 
+<table align="center">
+<thead>
+<tr>
+<th>Dataset</th>
+<th>Download link</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SAID test set</td>
+<td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
+</tr>
+<tr>
+<td>Full SAID dataset</td>
+<td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
+</tr>
+</tbody>
+</table>
 ## :sparkles: Results
 <!-- This is Results. -->
 <img src='./figures/result.png'>
-You will find more detailed results in our paper.
+
 
 
 ## :wrench: Dependencies and Installation

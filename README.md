@@ -35,16 +35,19 @@ You can use our Huggingface Space to quickly test our method. If this project is
 <thead>
 <tr>
 <th>Dataset</th>
+<th>Number</th>
 <th>Download link</th>
 </tr>
 </thead>
 <tbody align="center">
 <tr>
 <td>SAID test set</td>
+<td>3,200</td>
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
 </tr>
 <tr>
 <td>Full SAID dataset</td>
+<td>32,976</td>
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
 </tr>
 </tbody>

@@ -52,12 +52,19 @@ You can use our Huggingface Space to quickly test our method. If this project is
 </tr>
 </tbody>
 </table> -->
-
+#### If you are interested in SAID, you can download it from the links below.
 | Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
 | ---------------------- | ----------- | ---------------------------------------------- |
 | SAID test set&#xA;     | 3,200&#xA;  | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
 | Full SAID dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
 
+#### The dataset directory structure will be arranged as:
+```
+SAID
+  |- clear
+    |- 1.png
+    |- ...
+```
 
 ## :sparkles: Results
 <!-- This is Results. -->

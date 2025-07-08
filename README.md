@@ -14,8 +14,8 @@ You can use our Huggingface Space to quickly test our method. If this project is
 
 
 ### :mega: Updates
-- **2025.06.06**: Updates1.
-- **2025.06.06**: Updates2.
+- **2025.07.01**: Creat this repository.
+- **2025.07.08**: Updates2.
 <!-- ### :sparkles: Highlights: 
 - SAID 
 - E2P
@@ -23,8 +23,9 @@ You can use our Huggingface Space to quickly test our method. If this project is
 ### :page_facing_up: Todo-list
 - [ ] Release the test set of SAID.
 - [ ] Release test code and weights.
-- [ ] Release train code.
 - [ ] Release full SAID dataset.
+- [ ] Release train code.
+
 
 ## :rocket: SAID Dataset   
 <!-- We will be made this dataset public as soon as possible! -->
@@ -32,8 +33,9 @@ You can use our Huggingface Space to quickly test our method. If this project is
 
 ## :sparkles: Results
 <!-- This is Results. -->
-<img src='./figures/result1.png'>
-<img src='./figures/result2.png'>
+<img src='./figures/result.png'>
+You will find more detailed results in our paper.
+
 
 ## :wrench: Dependencies and Installation
 - CUDA = 11.7 (Only tested on this version)

@@ -59,11 +59,29 @@ You can use our Huggingface Space to quickly test our method. If this project is
 | Full SAID dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
 
 #### 2. The dataset directory structure will be arranged as:
-```
+<!-- ```
 SAID
   |- clear
     |- 1.png
     |- ...
+``` -->
+```
+└─SAID (SAID test set)
+    ├─clear
+    │   ├─0025.jpg
+    │   └─...
+    ├─color
+    │   ├─0025.jpg
+    │   └─...
+    ├─dark
+    │   ├─0025.jpg
+    │   └─...
+    ├─haze
+    │   ├─0025.jpg
+    │   └─...
+    ├─other degradations...
+    │   ├─0025.jpg
+    │   └─...
 ```
 
 ## :sparkles: Results

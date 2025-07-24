@@ -1,4 +1,4 @@
-# <p align=center> Seeing through Scattering from Degradation Embedding to Peeling </p>
+# <p align=center> Seeing through Scattering: Learning from Degradation  Embedding to Peeling and A Large-Scale Synthetic Dataset </p>
 
 <p align=center>
 <a href='https://index-yang.github.io/E2P'><img src='https://img.shields.io/badge/Paper-arxiv-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;
@@ -17,17 +17,17 @@ You can use our Huggingface Space to quickly test our method. If this project is
 - **2025.07.01**: Creat this repository.
 - **2025.07.08**: Updates2.
 <!-- ### :sparkles: Highlights: 
-- SAID 
+- SaS
 - E2P
 - SOTA -->
 ### :page_facing_up: Todo-list
-- [ ] Release the test set of SAID.
+- [ ] Release the test set of SaS.
 - [ ] Release test code and weights.
-- [ ] Release full SAID dataset.
+- [ ] Release full SaS dataset.
 - [ ] Release train code.
 
 
-## :rocket: SAID Dataset   
+## :rocket: SaS Dataset   
 <!-- We will be made this dataset public as soon as possible! -->
 <img src='./figures/dataset.png'>
 
@@ -41,32 +41,32 @@ You can use our Huggingface Space to quickly test our method. If this project is
 </thead>
 <tbody align="center">
 <tr>
-<td>SAID test set</td>
+<td>SaS test set</td>
 <td>3,200</td>
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
 </tr>
 <tr>
-<td>Full SAID dataset</td>
+<td>Full SaS dataset</td>
 <td>32,976</td>
 <td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
 </tr>
 </tbody>
 </table> -->
-#### 1. If you are interested in SAID, you can download it from the links below.
+#### 1. If you are interested in SaS, you can download it from the links below.
 | Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
 | ---------------------- | ----------- | ---------------------------------------------- |
-| SAID test set&#xA;     | 3,200&#xA;  | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
-| Full SAID dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
+| SaS test set&#xA;     | 3,200&#xA;  | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
+| Full SaS dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
 
 #### 2. The dataset directory structure will be arranged as:
 <!-- ```
-SAID
+SaS
   |- clear
     |- 1.png
     |- ...
 ``` -->
 ```
-└─SAID (SAID test set)
+└─SaS (SaS test set)
     ├─clear
     │   ├─0025.jpg
     │   └─...

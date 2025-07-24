@@ -130,11 +130,11 @@ pip install numpy==1.23.5
 #### Step3. Run and get clear image！
     Run.
 
-
+<!--
 ## :computer: Train
-<!-- ### Train the Degradation Embedding
-### Train the Degradation Peeling Network -->
-Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned.
+### Train the Degradation Embedding
+### Train the Degradation Peeling Network 
+Please note that due to time, our training code is not fully sorted out yet, but it won't take long, so stay tuned.-->
 
 ## :book: BibTeX
     This is BibTeX

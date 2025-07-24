@@ -24,7 +24,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 - [ ] Release the test set of SaS.
 - [ ] Release test code and weights.
 - [ ] Release full SaS dataset.
-- [ ] Release train code.
+<!--- [ ] Release train code.-->
 
 
 ## :rocket: SaS Dataset   

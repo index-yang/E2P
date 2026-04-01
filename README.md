@@ -15,7 +15,7 @@ You can use our Huggingface Space to quickly test our method. If this project is
 
 ### :mega: Updates
 - **2025.07.01**: Creat this repository.
-- **2025.07.08**: Updates2.
+- **2026.04.01**: Release the test set of SaS.
 <!-- ### :sparkles: Highlights: 
 - SaS
 - E2P

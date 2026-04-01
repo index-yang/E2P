@@ -54,7 +54,7 @@ If this project is helpful to you, please help star this repo and cite our paper
 #### 1. If you are interested in SaS, you can download it from the links below.
 | Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
 | ---------------------- | ----------- | ---------------------------------------------- |
-| SaS test set&#xA;     | 3,200&#xA;  | \[<a href="https://pan.baidu.com/s/1jV_QsnYoPGt6cFzdSOpHeg?pwd=7iah">Baidu Disk (pwd:7iah)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
+| SaS test set&#xA;     | 3,200&#xA;  | \[<a href="https://pan.baidu.com/s/1jV_QsnYoPGt6cFzdSOpHeg?pwd=7iah">Baidu Disk (pwd:7iah)</a>] \[<a href="https://drive.google.com/file/d/1oxAkfGyE5woTCrpR8FCYsGFZ62In74Ra/view?usp=drive_link">Google Drive</a>]&#xA; |
 | Full SaS dataset&#xA; | 32,976&#xA; | \[<a href="">Baidu Disk (TBD)</a>] \[<a href="">Google Drive (TBD)</a>]&#xA; |
 
 #### 2. The dataset directory structure will be arranged as:

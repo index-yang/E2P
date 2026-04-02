@@ -127,4 +127,5 @@ Please note that due to time, our training code is not fully sorted out yet, but
     This is BibTeX
 
 ## :email: Contact
-Should you have any questions, please contact **Donghui Yang** via email: yangdonghui@mail.dlut.edu.cn. Alternatively, you may reach the corresponding author **Long Ma** at: malone94319@gmail.com.
+Should you have any questions, please contact **Donghui Yang** via email: yangdonghui@mail.dlut.edu.cn.
+Alternatively, you may reach the corresponding author **Long Ma** at: malone94319@gmail.com.

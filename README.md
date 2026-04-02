@@ -103,7 +103,7 @@ pip install numpy==1.23.5
     Config. -->
 #### Step1. Download and place weights.
 All pre-trained weights can be downloaded: 
-<a href="https://pan.baidu.com/s/1rBY8HN1T0_n1Z5rXo0KIHw?pwd=kaq9">Baidu Disk (pwd:kaq9)</a>] \[<a href="">Google Drive (TBD)</a>]
+<a href="https://pan.baidu.com/s/1rBY8HN1T0_n1Z5rXo0KIHw?pwd=kaq9">Baidu Disk (pwd:kaq9)</a>] \[<a href="https://drive.google.com/file/d/1tJ2T4Ad_uNT0eKWM_alUQqQsMViXwYOp/view?usp=drive_link">Google Drive</a>]
 
 Then place the files into the correct directories:
 - `E2P_model.tar` → `ckpts`

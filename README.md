@@ -13,7 +13,7 @@ If this project is helpful to you, please help star this repo and cite our paper
 
 
 ### :mega: Updates
-- **2025.07.01**: Creat this repository.
+<!-- - **2025.07.01**: Creat this repository. -->
 - **2026.04.01**: Release the test set of SaS.
 - **2026.04.01**: Release full SaS dataset.
 <!-- ### :sparkles: Highlights: 
@@ -27,30 +27,8 @@ If this project is helpful to you, please help star this repo and cite our paper
 <!--- [ ] Release train code.-->
 
 ## :rocket: SaS Dataset   
-<!-- We will be made this dataset public as soon as possible! -->
 <img src='./figures/dataset.png'>
 
-<!-- <table align="center">
-<thead>
-<tr>
-<th>Dataset</th>
-<th>Number</th>
-<th>Download link</th>
-</tr>
-</thead>
-<tbody align="center">
-<tr>
-<td>SaS test set</td>
-<td>3,200</td>
-<td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
-</tr>
-<tr>
-<td>Full SaS dataset</td>
-<td>32,976</td>
-<td>[<a href="">Baidu Disk (TBD)</a>] [<a href="">Google Drive (TBD)</a>]</td>
-</tr>
-</tbody>
-</table> -->
 #### 1. If you are interested in SaS, you can download it from the links below.
 | Dataset&#xA;           | Number&#xA; | Download link&#xA;                             |
 | ---------------------- | ----------- | ---------------------------------------------- |
@@ -149,4 +127,4 @@ Please note that due to time, our training code is not fully sorted out yet, but
     This is BibTeX
 
 ## :email: Contact
-Should you have any question, please contact **Donghui Yang**! His email is yangdonghui@mail.dlut.edu.cn
+Should you have any questions, please contact **Donghui Yang** via email: yangdonghui@mail.dlut.edu.cn. Alternatively, you may reach the corresponding author **Long Ma** at: malone94319@gmail.com.

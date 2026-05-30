@@ -1,0 +1,3 @@
+model_iter_12000_klrate.pth和prompt_iter_12000_klrate.pth放在prompt-ckpt文件夹下
+ViT-B-32.pt放在clip_model文件夹下
+E2P_model.tar放在ckpts文件夹下

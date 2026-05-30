@@ -23,7 +23,7 @@ If this project is helpful to you, please help star this repo and cite our paper
 ### :page_facing_up: Todo-list
 - [x] Release the test set of SaS.
 - [x] Release full SaS dataset.
-- [ ] Release test code and weights.
+- [x] Release test code and weights.
 <!--- [ ] Release train code.-->
 
 ## :rocket: SaS Dataset   

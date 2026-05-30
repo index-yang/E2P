@@ -16,6 +16,8 @@ If this project is helpful to you, please help star this repo and cite our paper
 <!-- - **2025.07.01**: Creat this repository. -->
 - **2026.04.01**: Release the test set of SaS.
 - **2026.04.01**: Release full SaS dataset.
+- **2026.04.02**: Release all weights.
+- **2026.05.30**: Release test code.
 <!-- ### :sparkles: Highlights: 
 - SaS
 - E2P
@@ -24,7 +26,6 @@ If this project is helpful to you, please help star this repo and cite our paper
 - [x] Release the test set of SaS.
 - [x] Release full SaS dataset.
 - [x] Release test code and weights.
-<!--- [ ] Release train code.-->
 
 ## :rocket: SaS Dataset   
 <img src='./figures/dataset.png'>
